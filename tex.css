@@ -1,0 +1,16 @@
+header{
+    background-color: white;
+   padding: 50px 240px 
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav ul{
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    gap: 30px
+    ;
+}
